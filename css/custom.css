@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
+.jimg {
+    width: 30%;
+}
+
+footer {
+    background-color: dimgrey;
+    padding: .5% 2%;
+    color: white;
+    margin: 30px 0;
+}
+
+.logostyle {
+    margin: 12% 4% 4% 4%;
+}
+
+.bannerstyle {
+    margin: 12% 4% 4% 4%;
+}
