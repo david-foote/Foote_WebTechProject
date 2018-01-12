@@ -6755,4 +6755,9 @@ button.close {
     display: none !important;
   }
 }
+
+h4{
+	font-size: 50px;
+	color: darkslategrey;
+}
 /*# sourceMappingURL=bootstrap.css.map */
